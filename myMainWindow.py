@@ -3,7 +3,6 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtGui import QFont
 from PyQt5.QtWidgets import QToolTip, QMessageBox, QDesktopWidget
 import helloworld
-import sys
 
 
 class myMainWindow(QtWidgets.QMainWindow, helloworld.Ui_Form):
